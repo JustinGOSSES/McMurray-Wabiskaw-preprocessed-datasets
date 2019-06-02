@@ -37,5 +37,22 @@ In the metadata file for the original datasets <a href="https://github.com/Justi
 
 The preprocessed datasets built on the original datasets therefore follow a similar scheme and use the <a href="https://creativecommons.org/licenses/by-nc/2.0/legalcode">Attribution-NonCommercial 2.0 Generic (CC BY-NC 2.0)</a> license. A human-readable version of this license is <a href="https://creativecommons.org/licenses/by-nc/2.0/">here</a>. The key points are free to share, must attribute, and non-commercial so please don't try to resell the data.
 
+## Preprocessed datasets derived from original
+
+### Original datasets but with LAS well log files that don't load well separated and geographic coordinates CSV added saved in Zip file
+- Location in repository: 
+- What is included:
+- How to load:
+
+### Preprocessed dataframe for prediction of Top McMurray Pick Saved in single .h5 
+- Location in repository: 
+- What is included:
+- How to load:
+
+### Preprocessed dataframe from facies prediction in single .h5
+- Location in repository: 
+- What is included:
+- How to load:
+
 
 
