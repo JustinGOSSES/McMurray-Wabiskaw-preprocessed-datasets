@@ -26,6 +26,11 @@ Please note that there are a few misformed .LAS files in the full dataset, so th
 
 If for some reason the well data is not found at the links above, you should be able to find it <a href="https://github.com/JustinGOSSES/MannvilleGroup_Strat_Hackathon/tree/master/SPE_006_originalData">here.</a>
 
+## Credits to Original Dataset Authors:
+```
+Wynne, D.A., Attalla, M., Berezniuk, T., Berhane, H., Brulotte, M., Cotterill, D.K., Strobl, R.S. and Wightman, D.M. (1994): Athabasca Oil Sands database; McMurray/Wabiskaw deposit; Alberta Research Council, ARC/AGS Open File Report 1994-14, 51 p.
+```
+Also please see the SPE_006.txt file in the dataset zip file for additional information on contacting the originally authors.
 
 ## License and use constraints
 In the metadata file for the original datasets <a href="https://github.com/JustinGOSSES/MannvilleGroup_Strat_Hackathon/blob/master/SPE_006_originalData/Metadata/SPE_006.txt">SPE_006.txt</a> the dataset is described as `Access Constraints: Public` and `Use Constraints: Credit to originator/source required. Commercial reproduction not allowed.`
