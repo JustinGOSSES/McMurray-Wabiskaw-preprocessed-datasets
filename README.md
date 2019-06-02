@@ -35,7 +35,7 @@ Also please see the SPE_006.txt file in the dataset zip file for additional info
 ## License and use constraints
 In the metadata file for the original datasets <a href="https://github.com/JustinGOSSES/MannvilleGroup_Strat_Hackathon/blob/master/SPE_006_originalData/Metadata/SPE_006.txt">SPE_006.txt</a> the dataset is described as `Access Constraints: Public` and `Use Constraints: Credit to originator/source required. Commercial reproduction not allowed.`
 
-The preprocessed datasets built on the original datasets therefore follow a similar scheme and use the <a href="https://creativecommons.org/licenses/by-nc/2.0/legalcode">Attribution-NonCommercial 2.0 Generic (CC BY-NC 2.0)</a> license. A human-readable version of this license is <a href="https://creativecommons.org/licenses/by-nc/2.0/">here</a>. The key points are free to share, must attribute, and non-commercial so please don't try to resell the data.
+The preprocessed datasets built on the original datasets therefore follow a similar scheme. The license that best matches the use constraints of the original dataset is the <a href="https://creativecommons.org/licenses/by-nc/2.0/legalcode">Attribution-NonCommercial 2.0 Generic (CC BY-NC 2.0)</a> license. A human-readable version of this license is <a href="https://creativecommons.org/licenses/by-nc/2.0/">here</a>. The key points are free to share, must attribute, and non-commercial so please don't try to resell the data.
 
 ## Preprocessed datasets derived from original
 
