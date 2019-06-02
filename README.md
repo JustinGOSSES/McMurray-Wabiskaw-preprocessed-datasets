@@ -40,19 +40,23 @@ The preprocessed datasets built on the original datasets therefore follow a simi
 ## Preprocessed datasets derived from original
 
 ### Original datasets but with LAS well log files that don't load well separated and geographic coordinates CSV added saved in Zip file
-- Location in repository: 
+- Location in repository: processed_datasets
+- mannville_demo_data.zip
+- SHA256: 5e60e02306b15ce7bcb6ec35278566696a6b37627ce095360cdba26ef3f99fdf
 - What is included:
 - How to load:
 
 ### Preprocessed dataframe for prediction of Top McMurray Pick Saved in single .h5 
-- Location in repository: 
+- Location in repository: processed_datasets
+- name: mcmurry_top_dataframe.h5.zip
+- SHA256: b546eb7f1ceccfc3b0db0dcd8b0f204387aca717d88836700f6ed29d692d442b
 - What is included:
 - How to load:
 
 ### Preprocessed dataframe from facies prediction in single .h5
-- Location in repository: 
+- Location in repository: processed_datasets
+- name: mcmurry_facies_dataframe.h5.zip
+- SHA256: 367d7de144d430cb014db04281092fa3179c122e3396cdd111008f6885f9fe0c
 - What is included:
 - How to load:
-
-
 
