@@ -37,6 +37,9 @@ In the metadata file for the original datasets <a href="https://github.com/Justi
 
 The preprocessed datasets built on the original datasets therefore follow a similar scheme. The license that best matches the use constraints of the original dataset is the <a href="https://creativecommons.org/licenses/by-nc/2.0/legalcode">Attribution-NonCommercial 2.0 Generic (CC BY-NC 2.0)</a> license. A human-readable version of this license is <a href="https://creativecommons.org/licenses/by-nc/2.0/">here</a>. The key points are free to share, must attribute, and non-commercial so please don't try to resell the data.
 
+## Code for processing original dataset into preprocessed datasets
+Currently the Jupyter notebooks in the preprocessing_code directory are a good summary of the steps used to preprocess the files. Various python modules in predictatops project were used in the preprocessing. Eventually that code will be extracted and included here such that all preprocessing is in this repository.
+
 ## Preprocessed datasets derived from original
 
 ### Original datasets but with LAS well log files that don't load well separated and geographic coordinates CSV added saved in Zip file
@@ -59,4 +62,5 @@ The preprocessed datasets built on the original datasets therefore follow a simi
 - SHA256: 367d7de144d430cb014db04281092fa3179c122e3396cdd111008f6885f9fe0c
 - What is included:
 - How to load:
+
 
