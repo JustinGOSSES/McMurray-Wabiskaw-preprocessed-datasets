@@ -3,7 +3,7 @@ McMurray/Wabiskaw preprocessed datasets + code for getting packaged
 
 Purpose
 -------
-This repository serves as a place to put datasets preprocessed for specific purposes that originally came from Athabasca Oil Sands Data McMurray/Wabiskaw Oil Sands Deposit - Electronic Data zip file. The original dataset is described in <a href="https://ags.aer.ca/publications/OFR_1994_14.html">Open File Report 1994-14</a> and <a href="https://ags.aer.ca/publications/SPE_006.html">this webpage</a>.
+This repository serves as a place to put datasets preprocessed for specific purposes that originally came from Athabasca Oil Sands Data McMurray/Wabiskaw Oil Sands Deposit - Electronic Data zip file. The original dataset is described in <a href="https://ags.aer.ca/publications/OFR_1994_14.html">Open File Report 1994-14</a> and can be downloaded from <a href="https://ags.aer.ca/publications/SPE_006.html">this webpage</a>.
 
 A first use-case is a place to put McMurray datasets preprocessed to only have data useful for top prediction and facies prediction that are called in Rockhound, a Python package for quickly and easily calling easy to work with geologic datasets into either a pandas array or xarray. This reduces the need to find, clean, and arrange data when all you need is a starter dataset. 
 
